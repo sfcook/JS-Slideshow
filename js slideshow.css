@@ -1,0 +1,49 @@
+body {
+	background-color: black;
+	color: white;
+	margin: 0px;
+	overflow: hidden;
+}
+
+div {
+	padding: 2px;
+	padding-left: 17px;
+}
+
+#image {
+	text-align: center;
+	padding: 0px;
+	margin: 0px auto;
+}
+
+#instructions {
+	position: absolute;
+	bottom: 0;
+	background-color: #111;
+	color: #888;
+	text-align: center;
+	padding: 0px;
+	width: 100%;
+}
+
+.input {
+	background-color: #111;
+	color: #888;
+	border-radius: 10px;
+	margin: 2px;
+}
+#links {
+}
+#time {
+	margin-right: 17px;
+}
+
+#picture {
+	background-color: #000;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	height: 100px;
+	width: 100px;
+}
